@@ -21,3 +21,7 @@ function noSpace(x){
 * **Additional education:**
     * Polotsk State University. Financier.
     * Institute of Business and Management of the Belarusian State University. Personnel Management.
+# Languages
+* Russian 
+* Polish
+* English A2 (B1 in progress)

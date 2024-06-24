@@ -15,3 +15,9 @@ function noSpace(x){
   return x.replace(/\s/g, "")
   }
 ```
+# Education
+* **Basic education:** 
+    * Polotsk State University. Accountant-economist.
+* **Additional education:**
+    * Polotsk State University. Financier.
+    * Institute of Business and Management of the Belarusian State University. Personnel Management.
